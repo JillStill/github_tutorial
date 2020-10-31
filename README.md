@@ -5,4 +5,4 @@
 - Это список №2
 - Это список №3
 
-Этот репозиторий - GitHub_tutorial
+Этот репозиторий - GitHub_tutorial и папка for_atom_git_v2
